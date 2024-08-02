@@ -1,0 +1,4 @@
+a=input('Give me an input!')
+List=[] 
+List.append(a)
+print(f'>>{List}')

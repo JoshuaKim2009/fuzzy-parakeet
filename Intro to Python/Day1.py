@@ -1,0 +1,5 @@
+print('name')
+x=input('>>')
+print('age')
+y=input('>>')
+print(x+y)

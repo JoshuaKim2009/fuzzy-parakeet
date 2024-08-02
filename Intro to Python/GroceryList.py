@@ -1,0 +1,6 @@
+a=input('Hello! What do you want to add to your grocery list?')
+b=input('What do you want to add next?')
+c=input('What do you want to add next?')
+d=input('What do you want to add next?')
+f=input('What do you want to add next?')
+print(f'Your grocery list consists of {a}, {b}, {c}, {d} and {f}')
